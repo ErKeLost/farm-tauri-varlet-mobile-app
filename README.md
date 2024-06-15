@@ -26,6 +26,16 @@ This project is based on the `MIT` license
 - 📦 &nbsp; Built-in `eslint`, `commitlint`, `lint-staged`, `prettier` and other code checking/formatting tools
 - 💪 &nbsp; Officially maintained by `varletjs`, the first party provides support for `varlet`
 
+
+### preview 
+
+![image](https://github.com/ErKeLost/farm-tauri-varlet-mobile-app/assets/66500121/ac2ea81e-a499-4525-a81c-9260045300a3)
+
+![image](https://github.com/ErKeLost/farm-tauri-varlet-mobile-app/assets/66500121/f537c46a-5d9f-4b95-b257-79027a5b59a0)
+
+![image](https://github.com/ErKeLost/farm-tauri-varlet-mobile-app/assets/66500121/056d7778-dd47-4c3b-9e74-fa78fece284f)
+
+
 #### Install Dependencies
 
 ```shell
